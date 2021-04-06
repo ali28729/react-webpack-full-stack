@@ -1,5 +1,7 @@
 # react-webpack-full-stack
 
+[![Build Status](https://travis-ci.com/ali28729/react-webpack-full-stack.svg?branch=main)](https://travis-ci.com/ali28729/react-webpack-full-stack)
+
 This is a boilerplate to build a full stack web application using React 17, Node.js, Express and Webpack 5. It is also configured with webpack-dev-server, eslint, prettier and babel.
 
 - [react-webpack-full-stack](#react-webpack-full-stack)

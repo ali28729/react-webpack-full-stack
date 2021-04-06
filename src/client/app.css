@@ -1,0 +1,14 @@
+h1 {
+  font-family: monospace;
+  color: #57d9ff;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.react-logo {
+  width: 33vw;
+  padding: 50px 0;
+}
